@@ -1,0 +1,4 @@
+@mixin padding($section) {
+    padding-top: $section;
+    padding-bottom: calc($section * 0);
+  }
